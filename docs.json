@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "miltov.code",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#f9eaea",
+    "light": "#fff9f9",
+    "dark": "#ffdcdc"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -17,7 +17,7 @@
             "group": "Get Started",
             "pages": [
               "index",
-              "quickstart",
+              "installation",
               "development"
             ]
           },
@@ -35,21 +35,21 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Roblox Functions",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Roblox Functions",
             "pages": [
-              "api-reference/introduction"
+              "roblox-api/introduction"
             ]
           },
           {
             "group": "Endpoint Examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "roblox-api/endpoint/get",
+              "roblox-api/endpoint/create",
+              "roblox-api/endpoint/delete",
+              "roblox-api/endpoint/webhook"
             ]
           }
         ]
@@ -64,8 +64,8 @@
         },
         {
           "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "href": "https://discord.gg/K9Ef7b3g35",
+          "icon": "discord"
         },
         {
           "anchor": "Blog",
@@ -83,12 +83,12 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://discord.gg/K9Ef7b3g35"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "",
       "href": "https://dashboard.mintlify.com"
     }
   },
