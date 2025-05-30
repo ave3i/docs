@@ -35,10 +35,10 @@
         ]
       },
       {
-        "tab": "Roblox Functions",
+        "tab": "roblox api call functions",
         "groups": [
           {
-            "group": "Roblox Functions",
+            "group": "roblox api call functions",
             "pages": [
               "roblox-api/introduction"
             ]
@@ -58,12 +58,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "docs",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "community",
           "href": "https://discord.gg/K9Ef7b3g35",
           "icon": "discord"
         },
